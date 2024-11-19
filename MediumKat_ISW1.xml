@@ -111,11 +111,11 @@
 	<type>hidfast</type>
 	<index>2</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>142.0</upperLimit>
-	<lowerLimit>5.625</lowerLimit>
+	<upperLimit>100.32169117647061</upperLimit>
+	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>99.6783088235294</staticOffset>
+	<staticOffset>58.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
@@ -195,11 +195,11 @@
 	<type>hidfast</type>
 	<index>0</index>
 	<scale>-0.512698413</scale>
-	<upperLimit>157.5</upperLimit>
-	<lowerLimit>7.5</lowerLimit>
+	<upperLimit>153.84855136084286</upperLimit>
+	<lowerLimit>3.8485513608428477</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>82.65144863915715</staticOffset>
+	<staticOffset>79.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>

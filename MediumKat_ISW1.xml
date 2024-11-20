@@ -1268,10 +1268,10 @@
 	<index>12</index>
 	<scale>-0.714</scale>
 	<upperLimit>180.0</upperLimit>
-	<lowerLimit>30.0</lowerLimit>
+	<lowerLimit>42.12799056189641</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>117.87200943810359</staticOffset>
+	<staticOffset>130.0</staticOffset>
 	<deviceTheoreticalMax>180.0</deviceTheoreticalMax>
 	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
